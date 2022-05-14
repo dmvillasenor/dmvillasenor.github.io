@@ -50,5 +50,5 @@ nav > ul {
 
 .image-item > img {
     border-radius: 1rem;
-    max-height: 70vh;
+    width: 37vh;
 }
